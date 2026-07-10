@@ -42,12 +42,25 @@ Participación en proyecto backend de migración de funcionalidades de sistema m
 
 ## Tecnologías y herramientas
 
-**Backend:** C#, .NET, ASP.NET Web API, Java, Spring Boot, Dapper, AutoMapper, WebSocket, SOAP/REST.  
-**Bases de datos:** SQL Server, MySQL, Oracle, procedimientos almacenados, backups, restauración y reportes.  
-**Frontend:** HTML5, CSS3, JavaScript, WordPress, React, Angular.  
-**Hosting y despliegue:** Hosting compartido, VPS, dominios, DNS, correos corporativos, SSL, Apache/Linux, Java/Tomcat y .NET/C# en entornos compatibles.  
-**Control de versiones:** Git, GitHub, GitLab y consola.  
-**Documentación:** Scrum, historias de usuario, casos de uso, BPMN, IDEF0, IDEF3 y documentación funcional.
+**Lenguajes de programación:** C#, Java, Python, C, JavaScript, SQL y conocimientos básicos/intermedios de PHP.
+
+**Backend y desarrollo:** .NET, ASP.NET Web API, Java Spring Boot, Dapper, AutoMapper, arquitectura por capas, microservicios, servicios, repositorios, DTOs, controladores, validaciones, WebSocket y consumo de servicios web SOAP/REST.
+
+**Bases de datos:** SQL Server, MySQL, Oracle, consultas SQL, relaciones, procedimientos almacenados, procedimientos para inserción, actualización, eliminación y consulta de datos, backups, restauración, reportes y manejo avanzado de datos.
+
+**Frontend y web:** HTML5, CSS3, JavaScript, WordPress, React, Angular, maquetación responsive, diseño de interfaces web y mantenimiento de sitios web.
+
+**Escritorio y móvil:** Windows Forms con C#/.NET, aplicaciones de escritorio con Java, Android Studio, desarrollo móvil con Java/Kotlin y Firebase.
+
+**Hosting y despliegue:** Hosting compartido, VPS, dominios, DNS, correos corporativos, certificados SSL, Apache/Linux, despliegue de sitios HTML/CSS/JS, WordPress, PHP, Java/Tomcat y .NET/C# en entornos compatibles.
+
+**IDEs y herramientas de desarrollo:** Visual Studio 2022, Visual Studio Code, IntelliJ IDEA, Apache NetBeans, Eclipse, Android Studio, SQL Server Management Studio, MySQL Workbench, Oracle SQL Developer, Anaconda y Miniconda.
+
+**Control de versiones:** Git, GitHub, GitLab, manejo de ramas, commits, control de cambios, resolución básica de conflictos y uso de consola para operaciones de versionamiento.
+
+**QA, análisis y documentación:** Fundamentos ISTQB, pruebas de caja negra/blanca, casos de prueba, metodologías ágiles, Scrum, historias de usuario, casos de uso, BPMN, IDEF0, IDEF3 y documentación funcional de procesos.
+
+**Soporte TI, redes y seguridad:** Diagnóstico y reparación de PC, laptops e impresoras, mantenimiento preventivo/correctivo, helpdesk, instalación de software, configuración de redes LAN/WLAN, soporte a usuarios, seguridad informática y cifrado de datos.
 
 ---
 
