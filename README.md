@@ -44,28 +44,54 @@ Participación en proyecto backend de migración de funcionalidades de sistema m
 
 ---
 
-## Tecnologías y herramientas
+## Proyectos principales
 
-**Lenguajes de programación:** C#, Java, Python, C, JavaScript, SQL y conocimientos básicos/intermedios de PHP.
+### 1. Cupotech Solutions
+Proyecto de desarrollo web, posicionamiento digital e integración de sistema interno con Java, Spring Boot, MySQL, HTML, CSS y JavaScript.
 
-**Backend y desarrollo:** .NET, ASP.NET Web API, Java Spring Boot, Dapper, AutoMapper, arquitectura por capas, microservicios, servicios, repositorios, DTOs, controladores, validaciones, WebSocket y consumo de servicios web SOAP/REST.
+[Ver documentación del proyecto](proyectos/cupotech-solutions/README.md)
 
-**Bases de datos:** SQL Server, MySQL, Oracle, consultas SQL, relaciones, procedimientos almacenados, procedimientos para inserción, actualización, eliminación y consulta de datos, backups, restauración, reportes y manejo avanzado de datos.
+---
 
-**Frontend y web:** HTML5, CSS3, JavaScript, WordPress, React, Angular, maquetación responsive, diseño de interfaces web y mantenimiento de sitios web.
+### 2. Academia CRE
+Plataforma web académica para gestión de cursos, usuarios, inscripciones, roles y paneles administrativos.
 
-**Escritorio y móvil:** Windows Forms con C#/.NET, aplicaciones de escritorio con Java, Android Studio, desarrollo móvil con Java/Kotlin y Firebase.
+[Ver documentación del proyecto](proyectos/academia-cre/README.md)
 
-**Hosting y despliegue:** Hosting compartido, VPS, dominios, DNS, correos corporativos, certificados SSL, Apache/Linux, despliegue de sitios HTML/CSS/JS, WordPress, PHP, Java/Tomcat y .NET/C# en entornos compatibles.
+---
 
-**IDEs y herramientas de desarrollo:** Visual Studio 2022, Visual Studio Code, IntelliJ IDEA, Apache NetBeans, Eclipse, Android Studio, SQL Server Management Studio, MySQL Workbench, Oracle SQL Developer, Anaconda y Miniconda.
+### 3. Sistema de Gestión Anibella
+Aplicación de escritorio en C#/.NET con MySQL para gestión comercial, inventario, ventas, clientes, créditos y caja.
 
-**Control de versiones:** Git, GitHub, GitLab, manejo de ramas, commits, control de cambios, resolución básica de conflictos y uso de consola para operaciones de versionamiento.
+[Ver documentación del proyecto](proyectos/anibella/README.md)
 
-**QA, análisis y documentación:** Fundamentos ISTQB, pruebas de caja negra/blanca, casos de prueba, metodologías ágiles, Scrum, historias de usuario, casos de uso, BPMN, IDEF0, IDEF3 y documentación funcional de procesos.
+---
 
-**Soporte TI, redes y seguridad:** Diagnóstico y reparación de PC, laptops e impresoras, mantenimiento preventivo/correctivo, helpdesk, instalación de software, configuración de redes LAN/WLAN, soporte a usuarios, seguridad informática y cifrado de datos.
+### 4. Majo Fotografía
+Sitio web orientado a presentación de servicios fotográficos, portafolio visual, contacto y presencia digital.
 
+[Ver documentación del proyecto](proyectos/majo-fotografia/README.md)
+
+---
+
+### 5. Leo Silva Legal
+Sitio web corporativo para estudio jurídico, orientado a presencia digital, servicios legales y captación de clientes.
+
+[Ver documentación del proyecto](proyectos/leo-silva-legal/README.md)
+
+---
+
+### 6. Proyecto SMEAL
+Solución web para gestión de compras, ventas, almacén y tienda online. Proyecto galardonado con el 2do lugar a nivel institucional en IDAT.
+
+[Ver documentación del proyecto](proyectos/smeal/README.md)
+
+---
+
+### 7. TRENTO ERP / Techera
+Participación en proyecto backend de migración de funcionalidades de sistema monolítico hacia arquitectura orientada a servicios y microservicios en .NET/C#.
+
+[Ver documentación del proyecto](proyectos/trento-erp-techera/README.md)
 ---
 
 ## Documentos
