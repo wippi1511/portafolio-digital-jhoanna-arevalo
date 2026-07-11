@@ -20,6 +20,8 @@ Me enfoco en construir soluciones tecnológicas funcionales, documentadas y orie
 ### 1. Cupotech Solutions
 Proyecto de desarrollo web, posicionamiento digital e integración de sistema interno con Java, Spring Boot, MySQL, HTML, CSS y JavaScript.
 
+[Ver documentación del proyecto](proyectos/cupotech-solutions/README.md)
+
 ### 2. Academia CRE
 Plataforma web académica para gestión de cursos, usuarios, inscripciones, roles y paneles administrativos.
 
