@@ -22,35 +22,6 @@ Proyecto de desarrollo web, posicionamiento digital e integración de sistema in
 
 [Ver documentación del proyecto](proyectos/cupotech-solutions/README.md)
 
-### 2. Academia CRE
-Plataforma web académica para gestión de cursos, usuarios, inscripciones, roles y paneles administrativos.
-
-[Ver documentación del proyecto](proyectos/academia-cre/README.md)
-
-### 3. Sistema de Gestión Anibella
-Aplicación de escritorio en C#/.NET con MySQL para gestión comercial, inventario, ventas, clientes, créditos y caja.
-
-### 4. Majo Fotografía
-Sitio web orientado a presentación de servicios fotográficos, portafolio visual, contacto y presencia digital.
-
-### 5. Leo Silva Legal
-Sitio web corporativo para estudio jurídico, orientado a presencia digital, servicios legales y captación de clientes.
-
-### 6. Proyecto SMEAL
-Solución web para gestión de compras, ventas, almacén y tienda online. Proyecto galardonado con el 2do lugar a nivel institucional en IDAT.
-
-### 7. TRENTO ERP / Techera
-Participación en proyecto backend de migración de funcionalidades de sistema monolítico hacia arquitectura orientada a servicios y microservicios en .NET/C#.
-
----
-
-## Proyectos principales
-
-### 1. Cupotech Solutions
-Proyecto de desarrollo web, posicionamiento digital e integración de sistema interno con Java, Spring Boot, MySQL, HTML, CSS y JavaScript.
-
-[Ver documentación del proyecto](proyectos/cupotech-solutions/README.md)
-
 ---
 
 ### 2. Academia CRE
@@ -92,7 +63,9 @@ Solución web para gestión de compras, ventas, almacén y tienda online. Proyec
 Participación en proyecto backend de migración de funcionalidades de sistema monolítico hacia arquitectura orientada a servicios y microservicios en .NET/C#.
 
 [Ver documentación del proyecto](proyectos/trento-erp-techera/README.md)
+
 ---
+
 
 ## Documentos
 
