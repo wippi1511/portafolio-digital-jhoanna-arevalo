@@ -68,8 +68,8 @@ Participación en proyecto backend de migración de funcionalidades de sistema m
 
 Próximamente se incluirán:
 
-- CV profesional en PDF.
-- Portafolio profesional en PDF.
+- [Ver CV profesional en PDF](docs/cv/CV_Jhoanna_Arevalo_2026.pdf)
+- [Ver portafolio profesional en PDF](docs/portafolio/Portafolio_Jhoanna_Arevalo_2026.pdf)
 - Capturas de proyectos.
 - Documentación resumida de cada proyecto.
 
