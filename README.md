@@ -25,6 +25,8 @@ Proyecto de desarrollo web, posicionamiento digital e integración de sistema in
 ### 2. Academia CRE
 Plataforma web académica para gestión de cursos, usuarios, inscripciones, roles y paneles administrativos.
 
+[Ver documentación del proyecto](proyectos/academia-cre/README.md)
+
 ### 3. Sistema de Gestión Anibella
 Aplicación de escritorio en C#/.NET con MySQL para gestión comercial, inventario, ventas, clientes, créditos y caja.
 
